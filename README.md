@@ -1,2 +1,2 @@
 # Desarrollo-Web
-Repositorio con mis proyectos divididos en el área de Desarrollo Web, con lenguajes como HTML, CSS, JavaScript, React.
+Repository with projects in the area of ​​Web Development, written in HTML, CSS, JavaScript, React.
